@@ -1,5 +1,5 @@
 ### 📊 GitHub Stats
-[Logo](https://github-readme-stats.vercel.app/api?username=ElvisTakyi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+[Logo](ElvisTakyi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![Profile Views](https://komarev.com/ghpvc/?username=ElvisTakyi&color=brightgreen)
 # Hi, I'm Elvis! 👋
 
