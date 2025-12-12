@@ -1,4 +1,7 @@
-![Logo](https://github-readme-stats.vercel.app/api?username=ElvisTakyi&show_icons=true&theme=default)
+### 📊 GitHub Stats
+
+![ElvisTakyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElvisTakyi&show_icons=true&theme=default)
+
 
 
 # Hi, I'm Elvis! 👋
