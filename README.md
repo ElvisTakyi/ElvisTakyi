@@ -1,12 +1,13 @@
 ### 📊 GitHub Stats
 [Logo](ElvisTakyi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![Profile Views](https://komarev.com/ghpvc/?username=ElvisTakyi&color=brightgreen)
+
 # Hi, I'm Elvis! 👋
 
 
 ## 🚀 About Me
-I'm a passionate Data & financial Analyst.
-I leverage tools like Excel, SQL, power BI, and python to assess financial data, support business decisions, and drive growth. 
+I'm a passionate Data, Financial & Economic Policy Analyst.
+I leverage tools like Excel, SQL and power BI to assess financial data, support business decisions, and drive growth. 
 This github showcases some of my financial models, dashboards,and analytical projects that reflect my analytical approach and business insight
 
 
@@ -17,7 +18,6 @@ This github showcases some of my financial models, dashboards,and analytical pro
 
 3.SQL-MySQL
 
-4.Python
 
 
 
